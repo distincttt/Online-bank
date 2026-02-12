@@ -1,19 +1,15 @@
-# vue-practice-app
+# Online bank
 
-## Project setup
-```
-npm install
-```
+Vue + Vuex + TypeScript + Vue CLI
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## To run locally
 
-### Compiles and minifies for production
-```
-npm run build
+```bash
+git clone https://github.com/distincttt/Online-bank.git
+yarn install
+yarn run dev
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Link to deployed app
+
+https://vue-online-bank-c3fdd.web.app/
